@@ -1,7 +1,6 @@
 # Bem-vindo(a), eu sou Lucas Moraes! 👋
 
 ### Front-end Developer | Software Engineering Student
-"be excepcional in everything"
 
 Sou um desenvolvedor focado em construir interfaces modernas, escaláveis e de alta fidelidade. Atualmente no 5º semestre de **Engenharia de Software**, dedico meu dia a dia ao ecossistema JavaScript e à criação de aplicações performáticas.
 
