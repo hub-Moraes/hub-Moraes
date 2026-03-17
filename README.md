@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="capa" src="https://github.com/user-attachments/assets/edc80f41-74fa-4d81-9f98-5cea01b97f2a" />
+
+
 # Bem-vindo(a), eu sou Lucas Moraes! 👋
 
 ### Front-end Developer | Software Engineering Student
